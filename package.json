@@ -1,0 +1,33 @@
+{
+  "name": "vuepress-blog-cherry14",
+  "version": "1.0.0",
+  "description": "cherry14 blog",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs --temp .temp",
+    "build": "vuepress build docs",
+    "docs:build": "vuepress build docs",
+    "deploy": "bash deploy.sh"
+  },
+  "author": "cherry14",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/runtime": "^7.0.0-beta.46",
+    "vuepress": "^1.5.0"
+  },
+  "dependencies": {
+    "@vssue/api-github-v3": "^1.4.4",
+    "@vssue/vuepress-plugin-vssue": "^1.4.6",
+    "address": "^1.1.2",
+    "animejs": "^3.2.0",
+    "core-js": "^3.6.5",
+    "element-ui": "^2.13.2",
+    "express": "^4.17.1",
+    "sortablejs": "^1.10.2",
+    "swiper": "^5.4.5",
+    "vuepress-theme-reco": "^1.4.6"
+  }
+}

@@ -1,0 +1,21 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1591707287512'); /* IE9 */
+  src: url('iconfont.eot?t=1591707287512#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAARgAAsAAAAACHQAAAQRAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCCcAqEfIQaATYCJAMICwYABCAFhG0HMRtBB8gekiSCEAEFKIgAitYQD9/v9/u1zz2oJhHP3sy7JUIhRBI0UnxDIjSqfG1ewh3+PS0dGWzOIesgtQPbicVL1ym9NDMPbo9CmwPwJRWA/P8cM10+H1j+Bc+xqmlvVAk4sQ0oush2IAfmB3zD2JUXsZ1AvT7eONv8zHzISGb0C8SdXCaCjFJKuQYXaiXVJVOzeKKvNj2kK3j0fz7+WwojkqqCkXB4y5NC8b9czRjd3rJXuYvAGk8PNosCMyCZOC017tMNgzN01StGPUP1yVnwq/9/6TJX+4dHENUMYSPE9jDPiWWzT1WYsD1DqeuNaO71EupjijDXr553sDHtKNzEajTu82BEjW2+E4ZN1XpcLViqMZqznioUno9s1JqaVt4BnQsrPaBhh7vuvmO6f1Ubo8aOFbKa/CVacGLIXtOpO9eT0A1HJhctgJHFjrvZ2HnwVm2hGkPhgnGbY6oy7BTrgqlV8zSFditkrenU8aWafNUiTqJ170aCM79rKletgte4TYJfjy3VilYIXHTM7Zxm8jw4n+hdS5iu7YoA/3cMI1UoF1Pf4a09aL81gGVhlUnBJhRdry3Y6HGJDRdZ8qd9y0HLdLKcL35cNr7t4YY0h507uDxk9RNdoZFjblhCGiHQyXD5PNrWKWv5n4l7Gu3c40bxnfPN9C6fpa0rNs53TIh2K9Qve1ApTkqa9TgJXUzwDvMw4Lo8yaXkk77IvYwff81kUvTMneFTTT//VI7lzlyyWorC0vCQ0Jc25QH9ISHjHY5P3EKndvKqAsZPRZwW7BZ6nR7EeEbVXsJ1hNfLxAnXBOD1CQ6xF+FwU6FVJ6yLhBmCUR2BHL+ZwHw5izzTzInghVPEotlrkGzMWDkl0cIwLgR60AtVlbO6hY7fOQApDr+1TszD50tihi0VNWAMfi8wyPAR/xn8MSdS1O41A9rQB8WDUC4qhf2v/x1Xla0xVZbRX40aMvhatf7Zt5ezdmZI7QsyBT+a1bIsqxxDlbLMKo0mb+pfoLA+1pQMa7vHfc1dIKQPtZwFIanRC4VaI8iMnYEqDVagWq01qDctZXaDDjRdkeswZQhAaLUdkmavUGh1FZmxj6BKt09QrTV0od552C7ZYCzkJkk0EDFAiovbcLmEaiQtDWMSxAuBrKleRCc5Pr4Q0Eq5Bw/w9c9GUkAjoMcYoWyWBTIMiZM01YDzwW6gvp7CFTRVCySMbw3DKCL9/MiyD/lKqAbIxBYaIMIApHBibXByEpRGpFubYZL7vhAg06SeCF2TVWEsBNCU5I3jAvjyb4FMETa2yrqWW5SayQRiMEg4Eo3SAMcHeqDeDFJwivJOtQAJhq+aHn6FSH6oGtlW6Du/uOHpij3EHIYshdm2UHMvb5QxIgqCAAAAAA==') format('woff2'),
+  url('iconfont.woff?t=1591707287512') format('woff'),
+  url('iconfont.ttf?t=1591707287512') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1591707287512#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-yingtao:before {
+  content: "\e61f";
+}
+
