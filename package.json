@@ -27,7 +27,7 @@
     "element-ui": "^2.13.2",
     "express": "^4.17.1",
     "sortablejs": "^1.10.2",
-    "swiper": "^5.4.5",
+    "swiper": "^6.5.1",
     "vuepress-theme-reco": "^1.4.6"
   }
 }
